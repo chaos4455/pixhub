@@ -150,7 +150,7 @@ PixHub PCS é mais do que um sistema de pagamento; é a chave para transformar a
 
 **[Baixe a Versão de Demonstração](link_para_versao_demo) | [Compre Agora](link_para_compra_free)**
 
-### **Plano Prata - R$19,90/mês**
+### **Plano Prata - R$39,90/mês**
 - **Limite de Comprovantes:** 400 por mês
 - **Funcionalidades Adicionais:**
    - Customização do Comprovante
@@ -160,7 +160,7 @@ PixHub PCS é mais do que um sistema de pagamento; é a chave para transformar a
 
 **[Compre Agora - Plano Prata](link_para_compra_prata)**
 
-### **Plano Gold - R$39,90/mês**
+### **Plano Gold - R$89,90/mês**
 - **Limite de Comprovantes:** Sem limite
 - **Funcionalidades Adicionais:**
    - Customização do Comprovante
