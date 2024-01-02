@@ -128,20 +128,6 @@ Estamos comprometidos em tornar sua experiência com o PixHub PCS fácil e efici
 
 ---
 
-## Benefícios do PixHub PCS
-
-- **Pioneirismo Nacional:**
-  - Somos o primeiro sistema do Brasil a oferecer essa solução revolucionária para automação de pagamentos.
-
-- **Sem Maquininhas, Sem Taxas Escondidas:**
-  - Elimine as maquininhas e evite taxas desnecessárias. PixHub PCS oferece uma alternativa eficiente e econômica.
-
-- **Redução de Custos:**
-  - Economize a partir de R$33 por mês e aumente a rentabilidade do seu negócio.
-
-- **Aumento de Agilidade no Caixa:**
-  - Agilize o atendimento e proporcione uma experiência de pagamento rápida e eficiente.
-
 ## Desperte o Potencial do Seu Negócio com o PixHub PCS! 💪✨
 
 Não perca mais tempo com processos complicados. Adote o PixHub PCS e transforme a maneira como você conduz os pagamentos no seu estabelecimento. Estamos aqui para revolucionar a sua experiência de pagamento!
