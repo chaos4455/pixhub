@@ -10,34 +10,18 @@ PixHub PCS é um sistema inovador de pagamento e confirmação que transforma o 
 
 ## Principais Funcionalidades
 
-✅ **Recebimento via QR Code Estático e Chave Pix:**
-   - Aceite pagamentos instantâneos via QR Code ou chave Pix, proporcionando conveniência para seus clientes.
-
-💳 **Emissão de Comprovantes Impressos:**
-   - Agilize o processo de pagamento ao emitir automaticamente comprovantes impressos no caixa do cliente.
-
-🚀 **Automação de Cobrança via QR Code:**
-   - Elimine erros, demoras e taxas ao automatizar a confirmação de pagamentos via QR Code, revolucionando o seu caixa.
-
-🛡️ **Segurança Anti-Fraude:**
-   - Reduza riscos de fraudes ao adotar um sistema seguro, confirmado visualmente no momento da transação.
-
-💸 **Recebimento Pix Sem Taxas:**
-   - Diga adeus às taxas! Receba pagamentos Pix sem custos adicionais, direto na sua conta.
+- ✅ **Recebimento via QR Code Estático e Chave Pix:** Aceite pagamentos instantâneos proporcionando conveniência.
+- 💳 **Emissão de Comprovantes Impressos:** Agilize o processo de pagamento com comprovantes impressos.
+- 🚀 **Automação de Cobrança via QR Code:** Elimine erros e taxas ao automatizar a confirmação de pagamentos.
+- 🛡️ **Segurança Anti-Fraude:** Reduza riscos de fraudes com um sistema seguro visualmente confirmado.
+- 💸 **Recebimento Pix Sem Taxas:** Receba pagamentos Pix sem custos adicionais.
 
 ## Vantagens PixHub PCS
 
-🌐 **Pioneirismo Nacional:**
-   - Somos o primeiro sistema do Brasil a oferecer essa solução revolucionária para automação de pagamentos.
-
-🚫 **Sem Maquininhas, Sem Taxas Escondidas:**
-   - Elimine as maquininhas e evite taxas desnecessárias. PixHub PCS oferece uma alternativa eficiente e econômica.
-
-📉 **Redução de Custos:**
-   - Economize a partir de R$33 por mês e aumente a rentabilidade do seu negócio.
-
-📈 **Aumento de Agilidade no Caixa:**
-   - Agilize o atendimento e proporcione uma experiência de pagamento rápida e eficiente.
+- 🌐 **Pioneirismo Nacional:** Somos o primeiro sistema do Brasil a oferecer essa solução revolucionária.
+- 🚫 **Sem Maquininhas, Sem Taxas Escondidas:** Elimine as maquininhas e evite taxas desnecessárias.
+- 📉 **Redução de Custos:** Economize a partir de R$33 por mês e aumente a rentabilidade.
+- 📈 **Aumento de Agilidade no Caixa:** Agilize o atendimento proporcionando uma experiência de pagamento rápida e eficiente.
 
 ## Como Funciona
 
@@ -50,60 +34,36 @@ PixHub PCS é um sistema inovador de pagamento e confirmação que transforma o 
 
 A partir de R$33 por mês, você terá acesso a todas as funcionalidades do PixHub PCS. Escolha a praticidade, escolha a eficiência, escolha o futuro dos pagamentos!
 
-## Conclusão
+## Planos de Assinatura
 
-PixHub PCS é a solução definitiva para a modernização do seu ponto de venda. Desfrute da eficiência, segurança e economia que o PixHub PCS proporciona ao seu negócio.
+### Plano Free - Gratuito
+- **Limite de Comprovantes:** 200 por mês
+- **Funcionalidades:** Emissão de Comprovantes Impressos, Relatórios de Fechamento Diário, Suporte Básico
+- **[Baixe a Versão de Demonstração](link_para_versao_demo) | [Compre Agora](link_para_compra_free)**
 
-**Chegou a hora de revolucionar o seu comércio!** 💪✨
+### Plano Prata - R$39,90/mês
+- **Limite de Comprovantes:** 400 por mês
+- **Funcionalidades Adicionais:** Customização do Comprovante, Emissão de Comprovantes por E-mail, Relatórios Detalhados, Suporte Prioritário
+- **[Compre Agora - Plano Prata](link_para_compra_prata)**
 
-Para mais informações e instruções de instalação, consulte a documentação completa em breve no GitHub.
+### Plano Gold - R$89,90/mês
+- **Limite de Comprovantes:** Sem limite
+- **Funcionalidades Adicionais:** Customização do Comprovante, Emissão de Comprovantes por E-mail, Suporte Prioritário, Painel de Geração de Relatórios Rápidos, Dashboard Mobile e Desktop, Múltiplos QR por Mesa ou Caixa, Cupons e Relatórios por Mesa/Caixa
+- **[Compre Agora - Plano Gold](link_para_compra_gold)**
 
----
+## Documentação e Downloads
 
-## 📧 Contato
-
-Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail:  suporte@evolucaoit.com.br
-
----
-
-## 🚀 Projeto: PixHub PCS - Revolucionando os Pagamentos
-
-**Embarque nessa jornada de modernização e eficiência nos pagamentos com PixHub PCS!** 🌐✨
-
-Confira a [documentação completa](link_para_documentacao) para instruções de instalação, configuração e aproveitamento total do PixHub PCS.
-
----
-
-## 🌐 Redes Sociais e Repositórios do Projeto
-
+- [Documentação Completa](link_para_documentacao)
 - [GitHub - PixHub PCS](link_para_repositorio)
-- [LinkedIn - Seu Nome](link_para_perfil_linkedin)
-- [Twitter - PixHub PCS](link_para_perfil_twitter)
+- [Manual do Usuário](link_para_manual)
+- [Perguntas Frequentes](link_para_faq)
+- [Baixe a Última Versão](link_para_ultima_versao)
 
----
+## Contato e Suporte
 
-## 📄 Manual do Usuário
-
-Explore o [Manual do Usuário](link_para_manual) para obter informações detalhadas sobre configuração, uso e resolução de problemas.
-
----
-
-## ❓ Perguntas Frequentes
-
-Visite nossa [Página de Perguntas Frequentes](link_para_faq) para esclarecer dúvidas comuns sobre o PixHub PCS.
-
----
-
-## 📥 Downloads
-
-Baixe a [última versão](link_para_ultima_versao) do PixHub PCS e comece a revolucionar os pagamentos no seu estabelecimento.
-
----
+Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: suporte@evolucaoit.com.br
 
 Agradecemos por escolher o PixHub PCS! ✨
-
-
---
 
 # PixHub PCS (Payment Confirmation System) - Versão 1.0
 
@@ -119,23 +79,12 @@ PixHub PCS é mais do que um sistema de pagamento; é a chave para transformar a
 
 ## **Funcionalidades**
 
-✅ **Recebimento via QR Code Estático e Chave Pix:**
-   - Aceite pagamentos instantâneos via QR Code ou chave Pix, proporcionando conveniência para seus clientes.
-
-💳 **Emissão de Comprovantes Impressos:**
-   - Agilize o processo de pagamento ao emitir automaticamente comprovantes impressos no caixa do cliente.
-
-🚀 **Automação de Cobrança via QR Code:**
-   - Elimine erros, demoras e taxas ao automatizar a confirmação de pagamentos via QR Code, revolucionando o seu caixa.
-
-🛡️ **Segurança Anti-Fraude:**
-   - Reduza riscos de fraudes ao adotar um sistema seguro, confirmado visualmente no momento da transação.
-
-💸 **Recebimento Pix Sem Taxas:**
-   - Diga adeus às taxas! Receba pagamentos Pix sem custos adicionais, direto na sua conta.
-
-📄 **Emissão de Relatórios de Fechamento Diário:**
-   - Obtenha insights valiosos com relatórios detalhados sobre o desempenho diário do seu negócio.
+- ✅ **Recebimento via QR Code Estático e Chave Pix:** Aceite pagamentos instantâneos proporcionando conveniência para seus clientes.
+- 💳 **Emissão de Comprovantes Impressos:** Agilize o processo de pagamento com comprovantes impressos.
+- 🚀 **Automação de Cobrança via QR Code:** Elimine erros, demoras e taxas ao automatizar a confirmação de pagamentos via QR Code, revolucionando o seu caixa.
+- 🛡️ **Segurança Anti-Fraude:** Reduza riscos de fraudes adotando um sistema seguro visualmente confirmado no momento da transação.
+- 💸 **Recebimento Pix Sem Taxas:** Diga adeus às taxas! Receba pagamentos Pix sem custos adicionais, direto na sua conta.
+- 📄 **Emissão de Relatórios de Fechamento Diário:** Obtenha insights valiosos com relatórios detalhados sobre o desempenho diário do seu negócio.
 
 ---
 
@@ -143,35 +92,18 @@ PixHub PCS é mais do que um sistema de pagamento; é a chave para transformar a
 
 ### **Plano Free - Gratuito**
 - **Limite de Comprovantes:** 200 por mês
-- **Funcionalidades:**
-   - Emissão de Comprovantes Impressos
-   - Relatórios de Fechamento Diário
-   - Suporte Básico
-
-**[Baixe a Versão de Demonstração](link_para_versao_demo) | [Compre Agora](link_para_compra_free)**
+- **Funcionalidades:** Emissão de Comprovantes Impressos, Relatórios de Fechamento Diário, Suporte Básico
+- **[Baixe a Versão de Demonstração](link_para_versao_demo) | [Compre Agora](link_para_compra_free)**
 
 ### **Plano Prata - R$39,90/mês**
 - **Limite de Comprovantes:** 400 por mês
-- **Funcionalidades Adicionais:**
-   - Customização do Comprovante
-   - Emissão de Comprovantes por E-mail
-   - Relatórios Detalhados
-   - Suporte Prioritário
-
-**[Compre Agora - Plano Prata](link_para_compra_prata)**
+- **Funcionalidades Adicionais:** Customização do Comprovante, Emissão de Comprovantes por E-mail, Relatórios Detalhados, Suporte Prioritário
+- **[Compre Agora - Plano Prata](link_para_compra_prata)**
 
 ### **Plano Gold - R$89,90/mês**
 - **Limite de Comprovantes:** Sem limite
-- **Funcionalidades Adicionais:**
-   - Customização do Comprovante
-   - Emissão de Comprovantes por E-mail
-   - Suporte Prioritário
-   - Painel de Geração de Relatórios Rápidos
-   - Dashboard Mobile e Desktop
-   - Múltiplos QR por Mesa ou Caixa
-   - Cupons e Relatórios por Mesa/Caixa
-
-**[Compre Agora - Plano Gold](link_para_compra_gold)**
+- **Funcionalidades Adicionais:** Customização do Comprovante, Emissão de Comprovantes por E-mail, Suporte Prioritário, Painel de Geração de Relatórios Rápidos, Dashboard Mobile e Desktop, Múltiplos QR por Mesa ou Caixa, Cupons e Relatórios por Mesa/Caixa
+- **[Compre Agora - Plano Gold](link_para_compra_gold)**
 
 ---
 
