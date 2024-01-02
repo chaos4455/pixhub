@@ -92,7 +92,7 @@ Implementar o PixHub PCS no seu negócio é fácil e rápido. Basta seguir estes
    - [![Download PixHub PCS - Versão de Teste](https://img.shields.io/badge/Download%20PixHub%20PCS%20V4.2-009688?style=for-the-badge&logo=download)](https://www.mediafire.com/file/tv2yddp33e26up2/instalador_pixhub-V4.2_webapi_%252B_host-local-lic_%252B_coletorv13.exe/file)
 
 2. **Instalação Simples:**
-   - Siga as instruções do nosso [Manual de Download e Instalação](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Download%20e%20Instala%C3%A7%C3%A3o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)) para configurar o sistema no seu ambiente.
+   - Siga as instruções do nosso [Manual de Download e Instalação](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Download%20e%20Instala%C3%A7%C3%A3o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf) para configurar o sistema no seu ambiente.
 
 3. **Personalize de Acordo com Suas Necessidades:**
    - Explore as opções de customização disponíveis no [Manual de Configuração](link_para_manual_configuracao) para adaptar o PixHub PCS às suas preferências.
