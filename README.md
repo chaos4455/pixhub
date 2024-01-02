@@ -56,6 +56,8 @@ Escolha a praticidade, escolha a eficiência, escolha o futuro dos pagamentos!
 
 **[Solicite um Orçamento - Plano Gold](link_para_orcamento_gold)**
 
+📱 [Converse Conosco no WhatsApp se precisar de alguma ajuda](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
+
 # PixHub PCS - Transformando Seu Negócio com Pagamentos Inovadores 🚀
 
 Bem-vindo ao PixHub PCS, o sistema de Pagamento e Confirmação que vai revolucionar a forma como você conduz seus negócios! Estamos comprometidos em proporcionar uma experiência simplificada, eficiente e segura para médios e pequenos comerciantes.
@@ -296,6 +298,8 @@ PixHub PCS não é apenas uma solução de pagamento; é uma revolução nos pag
 ### Junte-se a Nós e Transforme Seu Negócio com PixHub PCS! 🚀
 
 ## Contato e Suporte
+
+📱 [Converse Conosco no WhatsApp](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
 
 Para mais informações, propostas personalizadas ou esclarecimentos, entre em contato pelo e-mail: suporte@evolucaoit.com.br
 
