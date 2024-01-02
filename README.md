@@ -41,7 +41,7 @@ Escolha a praticidade, escolha a eficiência, escolha o futuro dos pagamentos!
    - Emissão de Comprovantes Impressos
    - Automação de Cobrança via QR Code
 
-**[Compre Agora - Plano Prata](link_para_compra_prata)**
+**[Compre Agora - Plano Prata]([link_para_compra_prata](https://mpago.la/1BuivBY))**
 
 ### Plano Gold - Personalizado
 - **Licença por Computador:** Múltiplos caixas
