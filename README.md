@@ -185,16 +185,11 @@ Agora você está pronto para experimentar a revolução nos pagamentos com o Pi
 
 Quer vivenciar a revolução nos pagamentos antes de decidir? Baixe agora a versão de teste gratuita do PixHub PCS e descubra como podemos transformar seu negócio! 👇
 
-## Como Obter a Licença de Teste?
-
-1. Clique no link de download acima e obtenha o instalador PixHub PCS V4.2.
-2. Execute o instalador em seu ambiente.
-3. Clique no link abaixo e fale com nossa equipe de atendimento e vendas para solicitar sua licença de teste gratuita de 30 dias.
-
 ## Canal para Solicitar Licença de Teste Gratuita
 
-🔗 **Fale com nossa equipe via whatsapp para fazer o agendamento e liberação da licença de teste e avaliação sem custo ou compromisso:** 📱 [Solicite uma demonstração gratuíta](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
+## Como Obter a Licença de Teste?
 
+🔗 **Fale com nossa equipe via whatsapp para fazer o agendamento e liberação da licença de teste e avaliação sem custo ou compromisso:** 📱 [Solicite uma demonstração gratuíta](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
 
 📝 **Campos Necessários:**
 - Nome Completo
