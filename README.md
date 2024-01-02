@@ -29,6 +29,25 @@ PixHub PCS é um sistema inovador de pagamento e confirmação que transforma o 
 3. ✔️ Pagamento confirmado visualmente no caixa.
 4. 🎉 Cliente liberado! Transação concluída com sucesso.
 
+## 🌟 **Licença Gratuita até 300 Comprovantes por Mês!**
+
+A partir de agora, o PixHub PCS oferece uma licença gratuita para todos os usuários, permitindo o uso ilimitado do sistema para até 300 comprovantes por mês. Desfrute de todas as funcionalidades inovadoras do PixHub PCS sem nenhum custo adicional.
+
+### **Limitações da Licença Gratuita:**
+- 📆 **Comprovantes Mensais:** Gratuito para até 300 comprovantes por mês.
+- 🛑 **Sem Taxas Ocultas:** Nossa licença gratuita é transparente, sem taxas escondidas.
+
+### **Como Obter sua Licença Gratuita:**
+1. 📧 Entre em contato com nosso suporte via [suporte@pixhubpcs.com](mailto:suporte@pixhubpcs.com).
+2. 📢 Solicite sua licença gratuita mencionando o número estimado de comprovantes por mês.
+3. 🎉 Receba sua licença gratuita e aproveite todos os benefícios do PixHub PCS.
+
+### **Vantagens da Licença Gratuita:**
+- 🆓 **Grátis para Sempre:** A licença gratuita é válida indefinidamente.
+- 🔧 **Suporte Técnico Incluso:** Tenha acesso ao nosso suporte técnico para ajudar a otimizar o uso.
+
+Não perca a oportunidade de modernizar seu negócio com o PixHub PCS. Solicite sua licença gratuita hoje mesmo e use de graça pra sempre ou teste e conheça para migrar para um plano com mais recursos!
+
 💰 **Preços e Planos:**
 - **Plano Prata - R$39,90/mês**
   - Licença por Computador: 1 por PDV
@@ -205,8 +224,6 @@ Para mais informações, propostas personalizadas ou esclarecimentos, entre em c
 8. 🔄 [Manual de Download e Instalação](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Download%20e%20Instala%C3%A7%C3%A3o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
 9. 📱 [Manual de Geração de QR Code Estático - Mercado Pago](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Gera%C3%A7%C3%A3o%20de%20QR%20Code%20Est%C3%A1tico%20-%20Mercado%20Pago.pdf)
 10. 🛠️ [Manual de Suporte](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Suporte%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
-11. 🚀 [Release Notes - PixHub v4.1 - Coletor v10](https://github.com/chaos4455/pixhub/blob/main/Release%20Notes%20-%20PixHub%20v4.1%20-%20Coletor%20v10.pdf)
-
 
 ## Detalhes do Produto
 
