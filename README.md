@@ -230,7 +230,7 @@ O PixHub PCS é uma solução inovadora, e como tal, os executáveis podem ser f
 ### Adição à Lista de Exceções do Antivírus
 
 1. 🔍 **Verifique se o PixHub PCS está Atualizado:**
-   - Certifique-se de que está utilizando a versão mais recente do PixHub PCS, disponível no [repositório no GitHub](link_para_repositorio).
+   - Certifique-se de que está utilizando a versão mais recente do PixHub PCS, disponível pra download.
 
 2. 🚀 **Adicione à Lista de Exceções:**
    - Adicione a pasta de instalação do PixHub PCS às configurações de exceções do seu antivírus. Isso evita falsos positivos na detecção.
@@ -252,20 +252,6 @@ Se, mesmo após seguir as instruções acima, você continuar enfrentando proble
 
 Estamos comprometidos em garantir a segurança e eficácia do PixHub PCS. Agradecemos pela compreensão e colaboração.
 
-Atenciosamente,
-Equipe de Desenvolvimento - PixHub PCS
-
-
-## Documentação e Downloads
-
-- [Documentação Completa](link_para_documentacao)
-- [GitHub - PixHub PCS](link_para_repositorio)
-- [Manual do Usuário](link_para_manual)
-- [Perguntas Frequentes](link_para_faq)
-- [Baixe a Última Versão](link_para_ultima_versao)
-
-
-# Parte 2: Detalhes Adicionais
 
 ## Manuais e Documentação
 
@@ -337,5 +323,9 @@ PixHub PCS não é apenas uma solução de pagamento; é uma revolução nos pag
 📱 [Converse Conosco no WhatsApp](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
 
 Para mais informações, propostas personalizadas ou esclarecimentos, entre em contato pelo e-mail: suporte@evolucaoit.com.br
+
+Atenciosamente,
+Equipe de Desenvolvimento - PixHub PCS
+
 
 Agradecemos por escolher o PixHub PCS! ✨
