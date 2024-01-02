@@ -185,8 +185,6 @@ Agora você está pronto para experimentar a revolução nos pagamentos com o Pi
 
 Quer vivenciar a revolução nos pagamentos antes de decidir? Baixe agora a versão de teste gratuita do PixHub PCS e descubra como podemos transformar seu negócio! 👇
 
-[![Download PixHub PCS - Versão de Teste](https://img.shields.io/badge/Download%20PixHub%20PCS%20V4.2-009688?style=for-the-badge&logo=download)](https://www.mediafire.com/file/tv2yddp33e26up2/instalador_pixhub-V4.2_webapi_%252B_host-local-lic_%252B_coletorv13.exe/file)
-
 ## Como Obter a Licença de Teste?
 
 1. Clique no link de download acima e obtenha o instalador PixHub PCS V4.2.
