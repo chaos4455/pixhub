@@ -54,7 +54,7 @@ Escolha a praticidade, escolha a eficiência, escolha o futuro dos pagamentos!
    - Múltiplos QR por Mesa ou Caixa
    - Cupons e Relatórios por Mesa/Caixa
 
-**[Solicite um Orçamento - Plano Gold](link_para_orcamento_gold)**
+**[Solicite um Orçamento - Plano Gold]**
 
 📱 [Converse Conosco no WhatsApp se precisar de alguma ajuda](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
 
