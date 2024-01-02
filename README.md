@@ -38,7 +38,7 @@ A partir de agora, o PixHub PCS oferece uma licença gratuita para todos os usu�
 - 🛑 **Sem Taxas Ocultas:** Nossa licença gratuita é transparente, sem taxas escondidas.
 
 ### **Como Obter sua Licença Gratuita:**
-1. 📧 Entre em contato com nosso suporte via [suporte@pixhubpcs.com](mailto:pixhubtrial@evolucaoit.com.br).
+1. 📧 Entre em contato com nosso suporte via [pixhubtrial@evolucaoit.com.br](mailto:pixhubtrial@evolucaoit.com.br).
 2. 📢 Solicite sua licença com suporte e implantação totalmente gratuitas.
 3. 🎉 Receba sua licença gratuita e aproveite todos os benefícios do PixHub PCS.
 
