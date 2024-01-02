@@ -23,38 +23,33 @@ PixHub PCS é um sistema inovador de pagamento e confirmação que transforma o 
 - 📉 **Redução de Custos:** Economize a partir de R$33 por mês e aumente a rentabilidade.
 - 📈 **Aumento de Agilidade no Caixa:** Agilize o atendimento proporcionando uma experiência de pagamento rápida e eficiente.
 
-## Como Funciona
+🚀 **Como Funciona:**
+1. 📱 Cliente escaneia o QR Code no caixa ou na mesa.
+2. 🖨️ Sistema PixHub PCS emite automaticamente um comprovante impresso.
+3. ✔️ Pagamento confirmado visualmente no caixa.
+4. 🎉 Cliente liberado! Transação concluída com sucesso.
 
-1. Cliente escaneia o QR Code no caixa ou na mesa.
-2. Sistema PixHub PCS emite automaticamente um comprovante impresso.
-3. Pagamento confirmado visualmente no caixa.
-4. Cliente liberado! Transação concluída com sucesso.
+💰 **Preços e Planos:**
+- **Plano Prata - R$39,90/mês**
+  - Licença por Computador: 1 por PDV
+  - Funcionalidades Incluídas:
+    - 🔄 Recebimento Pix Sem Taxas
+    - 📜 Emissão de Comprovantes Impressos
+    - 🚀 Automação de Cobrança via QR Code
+  - [Compre Agora - Plano Prata](https://mpago.la/1BuivBY)
 
-## Preços e Planos
+- **Plano Gold - Personalizado**
+  - Licença por Computador: Múltiplos caixas
+  - Funcionalidades Adicionais:
+    - ✨ Customização do Comprovante
+    - 📧 Emissão de Comprovantes por E-mail
+    - 🆘 Suporte Prioritário
+    - 📊 Painel de Geração de Relatórios Rápidos
+    - 📱 Dashboard Mobile e Desktop
+    - 🔢 Múltiplos QR por Mesa ou Caixa
+    - 🎟️ Cupons e Relatórios por Mesa/Caixa
+  - [Solicite um Orçamento](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0) agora mesmo com nossa equipe de vendas e atendimento para conhecer os benefícios e vantagens do Plano Gold.
 
-Escolha a praticidade, escolha a eficiência, escolha o futuro dos pagamentos!
-
-### Plano Prata - R$39,90/mês
-- **Licença por Computador:** 1 por PDV
-- **Funcionalidades Incluídas:**
-   - Recebimento Pix Sem Taxas
-   - Emissão de Comprovantes Impressos
-   - Automação de Cobrança via QR Code
-
-**[Compre Agora - Plano Prata](https://mpago.la/1BuivBY)**
-
-### Plano Gold - Personalizado
-- **Licença por Computador:** Múltiplos caixas
-- **Funcionalidades Adicionais:**
-   - Customização do Comprovante
-   - Emissão de Comprovantes por E-mail
-   - Suporte Prioritário
-   - Painel de Geração de Relatórios Rápidos
-   - Dashboard Mobile e Desktop
-   - Múltiplos QR por Mesa ou Caixa
-   - Cupons e Relatórios por Mesa/Caixa
-
-**Solicite um Orçamento agora mesmo com nossa equipe de vendas e atendimento para conhecer os benefícios e vantagens do Plano Gold**
 
 📱 [Converse Conosco no WhatsApp se precisar de alguma ajuda](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
 
