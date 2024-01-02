@@ -62,7 +62,7 @@ Para mais informações e instruções de instalação, consulte a documentaçã
 
 ## 📧 Contato
 
-Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail: seu_email@example.com
+Para mais informações, propostas ou esclarecimentos, entre em contato pelo e-mail:  suporte@evolucaoit.com.br
 
 ---
 
