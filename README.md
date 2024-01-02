@@ -64,6 +64,48 @@ Escolha a praticidade, escolha a eficiência, escolha o futuro dos pagamentos!
 - [Perguntas Frequentes](link_para_faq)
 - [Baixe a Última Versão](link_para_ultima_versao)
 
+
+# Parte 2: Detalhes Adicionais
+
+## Manuais e Documentação
+
+1. [Contrato de Uso e Termos de Serviço](https://github.com/chaos4455/pixhub/blob/main/Contrato%20de%20Uso%20e%20Termos%20de%20Servi%C3%A7o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+2. [Licença de Uso](https://github.com/chaos4455/pixhub/blob/main/Licen%C3%A7a%20de%20Uso%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+3. [Manual de Cadastro Chave Pix](https://github.com/chaos4455/pixhub/blob/main/MANUAL%20CADASTRO%20CHAVE%20PIX.pdf)
+4. [Manual Gerar Código QR via PixHub para Chaves Pix](https://github.com/chaos4455/pixhub/blob/main/MANUAL%20GERAR%20CODIGO%20QR%20VIA%20PIXHUB%20PARA%20CHAVES%20PIX.pdf)
+5. [Manual PixHub v1](https://github.com/chaos4455/pixhub/blob/main/MANUAL%20PIXHUB%20V1.pdf)
+6. [Manual de Acompanhamento de Pagamentos e Emissão de Comprovantes](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Acompanhamento%20de%20Pagamentos%20e%20Emiss%C3%A3o%20de%20Comprovantes%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+7. [Manual de Compra de Licença](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Compra%20de%20Licen%C3%A7a%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+8. [Manual de Download e Instalação](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Download%20e%20Instala%C3%A7%C3%A3o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+9. [Manual de Geração de QR Code Estático - Mercado Pago](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Gera%C3%A7%C3%A3o%20de%20QR%20Code%20Est%C3%A1tico%20-%20Mercado%20Pago.pdf)
+10. [Manual de Suporte](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Suporte%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+11. [Release Notes - PixHub v4.1 - Coletor v10](https://github.com/chaos4455/pixhub/blob/main/Release%20Notes%20-%20PixHub%20v4.1%20-%20Coletor%20v10.pdf)
+
+## Detalhes do Produto
+
+🚀 **PixHub PCS - O Futuro dos Pagamentos**
+
+PixHub PCS é mais do que uma solução de pagamento, é a transformação completa da experiência de pagamento no seu negócio. Com funcionalidades inovadoras, segurança robusta e suporte excepcional, PixHub PCS está liderando a revolução nos pagamentos no Brasil.
+
+### Proposta de Valor:
+
+- 🔄 **Garantia de Satisfação 90 Dias:** Se não estiver satisfeito, garantimos seu dinheiro de volta em até 90 dias.
+- 💰 **Descontos nos Planos Anuais:** Economize mais ao optar por planos anuais, com descontos exclusivos.
+- 🎉 **Experiência de Usuário Inigualável:** Interface intuitiva e amigável para garantir uma experiência de uso sem igual.
+- 🌐 **Atualizações Constantes:** Mantemos o PixHub PCS sempre atualizado, com novos recursos e melhorias contínuas.
+
+### O Que Nos Torna Únicos:
+
+- 🏆 **Mais de 100 Milhões de Transações Bem-sucedidas:** Comprovamos nossa excelência com um histórico robusto.
+- 🌍 **Presente em Empresas de Sucesso:** Nossos usuários incluem empresas líderes no mercado, confiando no PixHub PCS.
+- 🛡️ **Segurança em Primeiro Lugar:** Implementamos as melhores práticas de segurança para proteger seus pagamentos.
+
+### Faça Parte da Revolução!
+
+Escolha PixHub PCS para modernizar seu ponto de venda, simplificar pagamentos e impulsionar seu negócio para o futuro!
+
+[![Compre Agora](link_para_compra)](link_para_compra)
+
 ## Contato e Suporte
 
 Para mais informações, propostas personalizadas ou esclarecimentos, entre em contato pelo e-mail: suporte@evolucaoit.com.br
