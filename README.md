@@ -130,10 +130,7 @@ Se optar por boleto ou outros métodos de pagamento, após a conclusão do pagam
 
 Estamos comprometidos em tornar sua experiência com o PixHub PCS fácil e eficiente. Contate-nos caso tenha dúvidas ou precise de assistência durante o processo de aquisição e instalação.
 
-Atenciosamente,
-Equipe PixHub PCS 🌈✨
-
-
+---
 
 ## Benefícios do PixHub PCS
 
