@@ -140,11 +140,11 @@ Escolha entre os planos disponíveis do PixHub PCS que melhor atendem às necess
 
 [Explore os Planos e Preços](https://github.com/chaos4455/pixhub/blob/main/planos.md)
 
-## 2. Adicione ao Carrinho e Prossiga para o Pagamento
+## 2. Clique no link do plano prata Prossiga para o Pagamento
 
-Clique no botão "Compre Agora" e adicione o PixHub PCS ao seu carrinho de compras. Prossiga para o pagamento de forma segura e rápida.
+Clique no botão Escolhe o meio de pagamento, pix ou cartão. Prossiga para o pagamento de forma segura e rápida.
 
-## 3. Informe Seu Email
+## 3. Para o pagamento via pix Informe Seu Email
 
 Durante o processo de checkout, informe o seu endereço de email corretamente. Este será o meio de comunicação para enviar a sua chave de licença e informações importantes sobre o seu pedido.
 
@@ -154,7 +154,7 @@ Escolha o método de pagamento preferido e conclua a transação. Garantimos um 
 
 ## 5. Receba Sua Chave de Licença por Email
 
-Após a confirmação do pagamento, você receberá um email contendo a sua chave de licença do PixHub PCS. Guarde essa chave com segurança, pois será essencial durante o processo de instalação.
+Após a confirmação do pagamento, você receberá um email contendo a sua chave de licença do PixHub PCS. Guarde essa chave com segurança, pois será essencial durante o processo de instalação. Se o pagamento foi feito por boleto ou cartão, informe por favor o suporte via whatsapp ou email com o comprovante de pagamento.
 
 ## 6. Agende a Instalação e Homologação
 
