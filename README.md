@@ -115,8 +115,6 @@ Implementar o PixHub PCS no seu negócio é fácil e rápido. Basta seguir estes
 
 Não perca mais tempo com processos complicados. Adote o PixHub PCS e transforme a maneira como você conduz os pagamentos no seu estabelecimento. Estamos aqui para revolucionar a sua experiência de pagamento!
 
-[![Compre Agora](https://api.whatsapp.com/send/?phone=44991166321&text=Olá%20PixHub!%20Estou%20interessado%20no%20PixHub%20PCS.%20Pode%20me%20fornecer%20mais%20informações%3F&type=phone_number&app_absent=0)](link_para_compra)
-
 # Processo de Compra do PixHub PCS - Simplificado e Eficiente! 🛍️💳
 
 ## 1. Escolha Seu Plano
@@ -146,9 +144,6 @@ Após a confirmação do pagamento, você receberá um email contendo a sua chav
 Responda ao email recebido para agendar a instalação e homologação do PixHub PCS no seu ambiente de negócios. Nossa equipe estará pronta para garantir uma implementação suave e eficiente.
 
 Agora você está pronto para experimentar a revolução nos pagamentos com o PixHub PCS! 🚀✨
-
-[![Compre Agora](https://api.whatsapp.com/send/?phone=44991166321&text=Olá%20PixHub!%20Estou%20interessado%20no%20PixHub%20PCS.%20Pode%20me%20fornecer%20mais%20informações%3F&type=phone_number&app_absent=0)](link_para_compra)
-
 
 
 ## Documentação e Downloads
@@ -226,10 +221,6 @@ O suporte ao cliente do PixHub PCS é verdadeiramente excepcional. Sempre que ti
 PixHub PCS não é apenas uma solução de pagamento; é uma revolução nos pagamentos. A facilidade de uso, a segurança robusta e os recursos inovadores tornam-no indispensável para qualquer negócio moderno. - Rodrigo, Empresário
 
 ### Junte-se a Nós e Transforme Seu Negócio com PixHub PCS! 🚀
-
-Compre Agora
-
-(https://api.whatsapp.com/send/?phone=44991166321&text=Olá%20PixHub!%20Estou%20interessado%20no%20PixHub%20PCS.%20Pode%20me%20fornecer%20mais%20informações%3F&type=phone_number&app_absent=0)
 
 ## Contato e Suporte
 
