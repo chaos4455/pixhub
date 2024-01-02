@@ -1,4 +1,4 @@
-# PixHub PCS (Payment Confirmation System) - Versão 4.1
+# PixHub PCS (Payment Confirmation System) - Versão 4.2
 
 ![PixHub PCS Logo](https://github.com/chaos4455/pixhub/blob/main/pixhublogo.jpeg?raw=true)
 
