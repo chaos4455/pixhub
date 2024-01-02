@@ -120,10 +120,10 @@ Ao realizar a compra via Pix, lembre-se de fornecer seu endereço de e-mail. Est
 - O suporte precisará gerar a chave de identificação do computador, uma vez a cada nova instalação em um novo computador.
 - Acione nosso suporte para auxílio no processo, desde a criação da conta no Mercado Pago até a obtenção das chaves APIs.
 
-## **💳 Pagamento via Boleto ou Outros Métodos**
+## **💳Confirmação de pagamento via Pagamento via Boleto ou Outros Métodos**
 
-Se optar por boleto ou outros métodos de pagamento, após a conclusão do pagamento,  📱 [envie uma mensagem para o WhatsApp](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
- ou e-mail suporte@evolucaoit.com.br. Informe a forma de pagamento para que possamos liberar sua licença.
+Se optar por boleto ou outros métodos de pagamento, após a conclusão do pagamento, ou se estiver tendo algum problema, 📱 [envie uma mensagem para o WhatsApp](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
+ ou e-mail suporte@evolucaoit.com.br. Informe seu Nome, Email, e a forma de pagamento e os comprovantes, para que possamos liberar sua licença.
 
 ### **🔓 Liberação da Licença e Agendamento:**
 - Após recebermos a confirmação do pagamento, nossa equipe fará a liberação da sua licença.
