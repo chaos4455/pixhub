@@ -88,7 +88,7 @@ PixHub PCS é mais do que um simples sistema de pagamento; é uma solução comp
 Implementar o PixHub PCS no seu negócio é fácil e rápido. Basta seguir estes passos simples:
 
 1. **Faça o Download:**
-   - Baixe a última versão do PixHub PCS a partir do nosso [repositório no GitHub](link_para_repositorio).
+   - Baixe a última versão do PixHub PCS a partir do link:  [![Download PixHub PCS - Versão de Teste](https://img.shields.io/badge/Download%20PixHub%20PCS%20V4.2-009688?style=for-the-badge&logo=download)](https://www.mediafire.com/file/tv2yddp33e26up2/instalador_pixhub-V4.2_webapi_%252B_host-local-lic_%252B_coletorv13.exe/file)
 
 2. **Instalação Simples:**
    - Siga as instruções do nosso [Manual de Download e Instalação](link_para_manual_instalacao) para configurar o sistema no seu ambiente.
