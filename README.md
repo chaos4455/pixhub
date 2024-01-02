@@ -191,11 +191,11 @@ Quer vivenciar a revolução nos pagamentos antes de decidir? Baixe agora a vers
 
 1. Clique no link de download acima e obtenha o instalador PixHub PCS V4.2.
 2. Execute o instalador em seu ambiente.
-3. Preencha o formulário abaixo para solicitar sua licença de teste gratuita de 30 dias.
+3. Clique no link abaixo e fale com nossa equipe de atendimento e vendas para solicitar sua licença de teste gratuita de 30 dias.
 
-## Formulário para Solicitar Licença de Teste Gratuita
+## Canal para Solicitar Licença de Teste Gratuita
 
-🔗 **Link para o Formulário de Solicitação:** 📱 [Solicite uma demonstração gratuíta](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
+🔗 **Fale com nossa equipe via whatsapp para fazer o agendamento e liberação da licença de teste e avaliação sem custo ou compromisso:** 📱 [Solicite uma demonstração gratuíta](https://api.whatsapp.com/send/?phone=44988597116&text&type=phone_number&app_absent=0)
 
 
 📝 **Campos Necessários:**
