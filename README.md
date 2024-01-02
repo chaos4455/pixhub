@@ -67,8 +67,6 @@ Agradecemos por escolher o PixHub PCS! ✨
 
 # PixHub PCS (Payment Confirmation System) - Versão 1.0
 
-![PixHub PCS Logo](https://github.com/chaos4455/pixhub/blob/main/pixhublogo.jpeg?raw=true)
-
 🚀 **Bem-vindo ao PixHub PCS, a revolução na automação de cobranças e pagamentos para médios e pequenos comerciantes!** 🚀
 
 ## **Visão Geral**
