@@ -145,6 +145,45 @@ Responda ao email recebido para agendar a instalação e homologação do PixHub
 
 Agora você está pronto para experimentar a revolução nos pagamentos com o PixHub PCS! 🚀✨
 
+# Experimente o PixHub PCS - Versão de Teste Gratuita! 🚀✨
+
+Quer vivenciar a revolução nos pagamentos antes de decidir? Baixe agora a versão de teste gratuita do PixHub PCS e descubra como podemos transformar seu negócio! 👇
+
+[![Download PixHub PCS - Versão de Teste](https://img.shields.io/badge/Download%20PixHub%20PCS%20V4.2-009688?style=for-the-badge&logo=download)](https://www.mediafire.com/file/tv2yddp33e26up2/instalador_pixhub-V4.2_webapi_%252B_host-local-lic_%252B_coletorv13.exe/file)
+
+## Como Obter a Licença de Teste?
+
+1. Clique no link de download acima e obtenha o instalador PixHub PCS V4.2.
+2. Execute o instalador em seu ambiente.
+3. Preencha o formulário abaixo para solicitar sua licença de teste gratuita de 30 dias.
+
+## Formulário para Solicitar Licença de Teste Gratuita
+
+🔗 **Link para o Formulário de Solicitação:** [Solicitar Demonstração Gratuita](link_em_branco)
+
+📝 **Campos Necessários:**
+- Nome Completo
+- Endereço de Email
+- Nome do Estabelecimento
+- Número de Contato
+- Melhor Horário para Agendamento
+- Observações ou Perguntas Adicionais
+
+🗓️ **Agendamento de Implantação:**
+- Após o preenchimento do formulário, nossa equipe entrará em contato para agendar a instalação e homologação.
+
+## Benefícios da Versão de Teste Gratuita:
+
+- 🔍 **Explore Todas as Funcionalidades:** Teste todas as funcionalidades do PixHub PCS V4.2 em seu ambiente de negócios.
+- 🤝 **Suporte Personalizado:** Receba suporte personalizado durante o período de teste.
+- 🔄 **Experiência sem Compromisso:** Experimente o PixHub PCS sem comprometer-se, totalmente gratuito por 30 dias.
+
+### Junte-se a Nós na Transformação dos Pagamentos! 🌐💳
+
+Para mais informações, propostas personalizadas ou esclarecimentos, entre em contato pelo e-mail: suporte@evolucaoit.com.br
+
+Agradecemos por escolher o PixHub PCS! ✨
+
 
 ## Documentação e Downloads
 
