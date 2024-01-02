@@ -99,39 +99,40 @@ Implementar o PixHub PCS no seu negócio é fácil e rápido. Basta seguir estes
 
 ---
 
-# Como Adquirir o PixHub PCS
+# 🚀 Como Adquirir o PixHub PCS
 
 Para garantir uma transição suave para o PixHub PCS e desfrutar de todos os benefícios, siga as orientações abaixo ao efetuar a compra:
 
-## **Compra Via Pix**
+## **💸 Compra Via Pix**
 
 Ao realizar a compra via Pix, lembre-se de fornecer seu endereço de e-mail. Esta informação é crucial para a equipe de vendas agendar a instalação das licenças e fornecer os dados necessários para você começar a usar o PixHub PCS.
 
-### **O que será enviado para seu e-mail:**
-- Chave Serial: Enviada para autenticação do software.
-- Licença de Consumo: Válida pelo período subsequente à data da compra (trimestral, semestral ou anual).
-- Chave de Usuário: Necessária para acessar e utilizar o PixHub PCS.
+### **📧 O que será enviado para seu e-mail:**
+- **Chave Serial:** Enviada para autenticação do software.
+- **Licença de Consumo:** Válida pelo período subsequente à data da compra (trimestral, semestral ou anual).
+- **Chave de Usuário:** Necessária para acessar e utilizar o PixHub PCS.
 
-### **Cadastro no Mercado Pago:**
+### **🌐 Cadastro no Mercado Pago:**
 - Caso ainda não tenha, crie sua conta no Mercado Pago. Mantenha suas chaves de criptografia e API seguras.
 - Utilize o geradordechaveapi.exe para gerar suas chaves de criptografia e API do Mercado Pago de forma segura.
 
-### **Suporte Técnico:**
+### **🛠️ Suporte Técnico:**
 - O suporte precisará gerar a chave de identificação do computador, uma vez a cada nova instalação em um novo computador.
 - Acione nosso suporte para auxílio no processo, desde a criação da conta no Mercado Pago até a obtenção das chaves APIs.
 
-## **Pagamento via Boleto ou Outros Métodos**
+## **💳 Pagamento via Boleto ou Outros Métodos**
 
 Se optar por boleto ou outros métodos de pagamento, após a conclusão do pagamento, envie uma mensagem para o WhatsApp ou e-mail suporte@evolucaoit.com.br. Informe a forma de pagamento para que possamos liberar sua licença.
 
-### **Liberação da Licença e Agendamento:**
+### **🔓 Liberação da Licença e Agendamento:**
 - Após recebermos a confirmação do pagamento, nossa equipe fará a liberação da sua licença.
 - Será agendado um horário para a equipe de suporte e implantação realizar a instalação e habilitação do programa conforme suas necessidades.
 
 Estamos comprometidos em tornar sua experiência com o PixHub PCS fácil e eficiente. Contate-nos caso tenha dúvidas ou precise de assistência durante o processo de aquisição e instalação.
 
 Atenciosamente,
-Equipe PixHub PCS
+Equipe PixHub PCS 🌈✨
+
 
 
 ## Benefícios do PixHub PCS
