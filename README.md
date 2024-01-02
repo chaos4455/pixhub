@@ -157,7 +157,7 @@ Não perca mais tempo com processos complicados. Adote o PixHub PCS e transforme
 
 Escolha entre os planos disponíveis do PixHub PCS que melhor atendem às necessidades do seu negócio. Selecione entre o Plano Prata ou o Plano Gold para desfrutar de funcionalidades adicionais.
 
-[Explore os Planos e Preços](link_para_planos)
+[Explore os Planos e Preços](https://github.com/chaos4455/pixhub/blob/main/planos.md)
 
 ## 2. Adicione ao Carrinho e Prossiga para o Pagamento
 
