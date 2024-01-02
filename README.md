@@ -117,6 +117,37 @@ Não perca mais tempo com processos complicados. Adote o PixHub PCS e transforme
 
 [![Compre Agora](https://api.whatsapp.com/send/?phone=44991166321&text=Olá%20PixHub!%20Estou%20interessado%20no%20PixHub%20PCS.%20Pode%20me%20fornecer%20mais%20informações%3F&type=phone_number&app_absent=0)](link_para_compra)
 
+# Processo de Compra do PixHub PCS - Simplificado e Eficiente! 🛍️💳
+
+## 1. Escolha Seu Plano
+
+Escolha entre os planos disponíveis do PixHub PCS que melhor atendem às necessidades do seu negócio. Selecione entre o Plano Prata ou o Plano Gold para desfrutar de funcionalidades adicionais.
+
+[Explore os Planos e Preços](link_para_planos)
+
+## 2. Adicione ao Carrinho e Prossiga para o Pagamento
+
+Clique no botão "Compre Agora" e adicione o PixHub PCS ao seu carrinho de compras. Prossiga para o pagamento de forma segura e rápida.
+
+## 3. Informe Seu Email
+
+Durante o processo de checkout, informe o seu endereço de email corretamente. Este será o meio de comunicação para enviar a sua chave de licença e informações importantes sobre o seu pedido.
+
+## 4. Conclua o Pagamento
+
+Escolha o método de pagamento preferido e conclua a transação. Garantimos um processo de pagamento seguro e protegido.
+
+## 5. Receba Sua Chave de Licença por Email
+
+Após a confirmação do pagamento, você receberá um email contendo a sua chave de licença do PixHub PCS. Guarde essa chave com segurança, pois será essencial durante o processo de instalação.
+
+## 6. Agende a Instalação e Homologação
+
+Responda ao email recebido para agendar a instalação e homologação do PixHub PCS no seu ambiente de negócios. Nossa equipe estará pronta para garantir uma implementação suave e eficiente.
+
+Agora você está pronto para experimentar a revolução nos pagamentos com o PixHub PCS! 🚀✨
+
+[![Compre Agora](https://api.whatsapp.com/send/?phone=44991166321&text=Olá%20PixHub!%20Estou%20interessado%20no%20PixHub%20PCS.%20Pode%20me%20fornecer%20mais%20informações%3F&type=phone_number&app_absent=0)](link_para_compra)
 
 
 
