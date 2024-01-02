@@ -193,40 +193,6 @@ Quer vivenciar a revolução nos pagamentos antes de decidir? Baixe agora a vers
 
 Para mais informações, propostas personalizadas ou esclarecimentos, entre em contato pelo e-mail: suporte@evolucaoit.com.br
 
-Agradecemos por escolher o PixHub PCS! ✨
-
-# Aviso de Segurança - PixHub PCS
-
-## 🚨 Atenção: Possíveis Alertas de Antivírus
-
-O PixHub PCS é uma solução inovadora, e como tal, os executáveis podem ser falsamente detectados por alguns softwares antivírus devido à sua novidade. Caso você encontre problemas dessa natureza, siga as orientações abaixo:
-
-### Adição à Lista de Exceções do Antivírus
-
-1. 🔍 **Verifique se o PixHub PCS está Atualizado:**
-   - Certifique-se de que está utilizando a versão mais recente do PixHub PCS, disponível pra download.
-
-2. 🚀 **Adicione à Lista de Exceções:**
-   - Adicione a pasta de instalação do PixHub PCS às configurações de exceções do seu antivírus. Isso evita falsos positivos na detecção.
-
-### Relatório de Análise de Segurança
-
-- 📊 **Relatório de Segurança:** [Análise de Segurança - PixHub PCS](https://www.virustotal.com/gui/file/fe90ef32dfdc890851aff585d83b237cd4c833e2932bff2bb8019be30bf4cbd0)
-
-### Capturas de Tela do Relatório:
-
-![Captura de Tela - 1](https://github.com/chaos4455/pixhub/blob/main/chrome_hF78RslI6H.png?raw=true)
-![Captura de Tela - 2](https://github.com/chaos4455/pixhub/blob/main/chrome_3UgYFDAtfh.png?raw=true)
-
-## Suporte Técnico
-
-Se, mesmo após seguir as instruções acima, você continuar enfrentando problemas ou tiver dúvidas, entre em contato com nossa equipe de suporte técnico:
-
-- 📧 **Email de Suporte:** suporte@evolucaoit.com.br
-
-Estamos comprometidos em garantir a segurança e eficácia do PixHub PCS. Agradecemos pela compreensão e colaboração.
-
-
 ## 📚 Manuais e Documentação
 
 1. 📄 [Contrato de Uso e Termos de Serviço](https://github.com/chaos4455/pixhub/blob/main/Contrato%20de%20Uso%20e%20Termos%20de%20Servi%C3%A7o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
@@ -304,3 +270,37 @@ Equipe de Desenvolvimento - PixHub PCS
 
 
 Agradecemos por escolher o PixHub PCS! ✨
+
+
+# Aviso de Segurança - PixHub PCS
+
+## 🚨 Atenção: Possíveis Alertas de Antivírus
+
+O PixHub PCS é uma solução inovadora, e como tal, os executáveis podem ser falsamente detectados por alguns softwares antivírus devido à sua novidade. Caso você encontre problemas dessa natureza, siga as orientações abaixo:
+
+### Adição à Lista de Exceções do Antivírus
+
+1. 🔍 **Verifique se o PixHub PCS está Atualizado:**
+   - Certifique-se de que está utilizando a versão mais recente do PixHub PCS, disponível pra download.
+
+2. 🚀 **Adicione à Lista de Exceções:**
+   - Adicione a pasta de instalação do PixHub PCS às configurações de exceções do seu antivírus. Isso evita falsos positivos na detecção.
+
+### Relatório de Análise de Segurança
+
+- 📊 **Relatório de Segurança:** [Análise de Segurança - PixHub PCS](https://www.virustotal.com/gui/file/fe90ef32dfdc890851aff585d83b237cd4c833e2932bff2bb8019be30bf4cbd0)
+
+### Capturas de Tela do Relatório:
+
+![Captura de Tela - 1](https://github.com/chaos4455/pixhub/blob/main/chrome_hF78RslI6H.png?raw=true)
+![Captura de Tela - 2](https://github.com/chaos4455/pixhub/blob/main/chrome_3UgYFDAtfh.png?raw=true)
+
+## Suporte Técnico
+
+Se, mesmo após seguir as instruções acima, você continuar enfrentando problemas ou tiver dúvidas, entre em contato com nossa equipe de suporte técnico:
+
+- 📧 **Email de Suporte:** suporte@evolucaoit.com.br
+
+Estamos comprometidos em garantir a segurança e eficácia do PixHub PCS. Agradecemos pela compreensão e colaboração.
+
+
