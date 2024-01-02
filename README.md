@@ -241,19 +241,20 @@ Se, mesmo após seguir as instruções acima, você continuar enfrentando proble
 Estamos comprometidos em garantir a segurança e eficácia do PixHub PCS. Agradecemos pela compreensão e colaboração.
 
 
-## Manuais e Documentação
+## 📚 Manuais e Documentação
 
-1. [Contrato de Uso e Termos de Serviço](https://github.com/chaos4455/pixhub/blob/main/Contrato%20de%20Uso%20e%20Termos%20de%20Servi%C3%A7o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
-2. [Licença de Uso](https://github.com/chaos4455/pixhub/blob/main/Licen%C3%A7a%20de%20Uso%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
-3. [Manual de Cadastro Chave Pix](https://github.com/chaos4455/pixhub/blob/main/MANUAL%20CADASTRO%20CHAVE%20PIX.pdf)
-4. [Manual Gerar Código QR via PixHub para Chaves Pix](https://github.com/chaos4455/pixhub/blob/main/MANUAL%20GERAR%20CODIGO%20QR%20VIA%20PIXHUB%20PARA%20CHAVES%20PIX.pdf)
-5. [Manual PixHub v1](https://github.com/chaos4455/pixhub/blob/main/MANUAL%20PIXHUB%20V1.pdf)
-6. [Manual de Acompanhamento de Pagamentos e Emissão de Comprovantes](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Acompanhamento%20de%20Pagamentos%20e%20Emiss%C3%A3o%20de%20Comprovantes%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
-7. [Manual de Compra de Licença](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Compra%20de%20Licen%C3%A7a%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
-8. [Manual de Download e Instalação](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Download%20e%20Instala%C3%A7%C3%A3o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
-9. [Manual de Geração de QR Code Estático - Mercado Pago](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Gera%C3%A7%C3%A3o%20de%20QR%20Code%20Est%C3%A1tico%20-%20Mercado%20Pago.pdf)
-10. [Manual de Suporte](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Suporte%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
-11. [Release Notes - PixHub v4.1 - Coletor v10](https://github.com/chaos4455/pixhub/blob/main/Release%20Notes%20-%20PixHub%20v4.1%20-%20Coletor%20v10.pdf)
+1. 📄 [Contrato de Uso e Termos de Serviço](https://github.com/chaos4455/pixhub/blob/main/Contrato%20de%20Uso%20e%20Termos%20de%20Servi%C3%A7o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+2. 📜 [Licença de Uso](https://github.com/chaos4455/pixhub/blob/main/Licen%C3%A7a%20de%20Uso%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+3. 📋 [Manual de Cadastro Chave Pix](https://github.com/chaos4455/pixhub/blob/main/MANUAL%20CADASTRO%20CHAVE%20PIX.pdf)
+4. 🌐 [Manual Gerar Código QR via PixHub para Chaves Pix](https://github.com/chaos4455/pixhub/blob/main/MANUAL%20GERAR%20CODIGO%20QR%20VIA%20PIXHUB%20PARA%20CHAVES%20PIX.pdf)
+5. 📘 [Manual PixHub v1](https://github.com/chaos4455/pixhub/blob/main/MANUAL%20PIXHUB%20V1.pdf)
+6. 📑 [Manual de Acompanhamento de Pagamentos e Emissão de Comprovantes](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Acompanhamento%20de%20Pagamentos%20e%20Emiss%C3%A3o%20de%20Comprovantes%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+7. 📝 [Manual de Compra de Licença](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Compra%20de%20Licen%C3%A7a%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+8. 🔄 [Manual de Download e Instalação](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Download%20e%20Instala%C3%A7%C3%A3o%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+9. 📱 [Manual de Geração de QR Code Estático - Mercado Pago](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Gera%C3%A7%C3%A3o%20de%20QR%20Code%20Est%C3%A1tico%20-%20Mercado%20Pago.pdf)
+10. 🛠️ [Manual de Suporte](https://github.com/chaos4455/pixhub/blob/main/Manual%20de%20Suporte%20-%20PixHub%20PCS%20(Payment%20Confirmation%20System).pdf)
+11. 🚀 [Release Notes - PixHub v4.1 - Coletor v10](https://github.com/chaos4455/pixhub/blob/main/Release%20Notes%20-%20PixHub%20v4.1%20-%20Coletor%20v10.pdf)
+
 
 ## Detalhes do Produto
 
