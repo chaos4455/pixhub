@@ -188,6 +188,6 @@ PixHub PCS é mais do que um sistema de pagamento; é a chave para transformar a
 
 ## **Contato e Suporte**
 
-Para mais informações, propostas personalizadas ou esclarecimentos, entre em contato pelo e-mail: seu_email@example.com
+Para mais informações, propostas personalizadas ou esclarecimentos, entre em contato pelo e-mail:  suporte@evolucaoit.com.br
 
 Estamos aqui para transformar a sua experiência de pagamento! ✨
